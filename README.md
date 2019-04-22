@@ -10,3 +10,15 @@
 3.[垃圾回收器（2019-04-10 ）](https://blog.csdn.net/u013049016/article/details/89143804)
 
 4.[内存分配与回收策略（2019-04-16 ）](https://blog.csdn.net/u013049016/article/details/89180816)
+
+5.[类的文件结构](https://blog.csdn.net/u013049016/article/details/89354075)
+
+## 优化相关
+
+1.[性能优化系列——代码优化](https://blog.csdn.net/u013049016/article/details/89382494)
+
+## 遇到的一些问题
+
+1.[Fragment中使用RecycleView，当切换Fragment时里面的RecycleView会自动滑动问题](https://blog.csdn.net/u013049016/article/details/89360300)
+
+2.[Android 方法数64k限制](https://blog.csdn.net/u013049016/article/details/89376561)
